@@ -1,0 +1,12 @@
+Orange Vgnd
+Light Orange Vcc +12V
+Blue Relay common
+Light Blue NO
+Brown Vgnd at supply end
+Light Brown normally closed
+Green 5V from rain sensor
+Light Green  1200 baud data
+
+arguments that ensued:
+this is a current signal rather than a voltage signal
+we are using the 5V supply as the signal ground, you could use the power ground for the signal ground.
